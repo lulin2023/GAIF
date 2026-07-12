@@ -63,6 +63,7 @@ Data and code folders for reproducing real-world applications in Section 5.
 ---
 
 ## Citation
+If you find this work useful, you can cite it with the following BibTex entry:
 
 ```bibtex
 @misc{lu2025feedbackenhancedonlinemultiple,
