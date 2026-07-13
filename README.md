@@ -55,10 +55,10 @@ Code for reproducing results in Section 4, Appendix E, and various figures/table
 ## Guide for the codes in `3-Real-data/` folder
 Data and code folders for reproducing real-world applications in Section 5.
 
-- `airfoil/` (Task: Airfoil noise detection )
-- `candidate/` (Task: Job candidate selection/screening)
-- `diabetes/` (Task: Diabetes clinical indicators analysis)
-- `income/` (Task: Census income level prediction)
+- `airfoil/` (Task: Airfoil Noise Detection )
+- `candidate/` (Task: Job Candidate Selection)
+- `diabetes/` (Task: High-Risk Diabetes Identification)
+- `income/` (Task: High-Income Individual Selection)
 
 ---
 
