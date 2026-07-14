@@ -24,7 +24,7 @@ This folder contains the underlying algorithmic definitions, helper functions, a
 
 ## Guide for the codes in `2-Synthetic-data/` folder
 
-Code for reproducing results in Section 4, Appendix E, and various figures/tables in the paper.
+Code for reproducing results in Section 5, Appendix E, and various figures/tables in the paper.
 
 ### 1-non-conformal setting
 - `0-Illustration_figure(Figure1).R`
@@ -53,7 +53,7 @@ Code for reproducing results in Section 4, Appendix E, and various figures/table
 ---
 
 ## Guide for the codes in `3-Real-data/` folder
-Data and code folders for reproducing real-world applications in Section 5.
+Data and code folders for reproducing real-world applications in Section 6.
 
 - `airfoil/` (Task: Airfoil Noise Detection )
 - `candidate/` (Task: Job Candidate Selection)
